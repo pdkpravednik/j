@@ -1,4 +1,5 @@
 import GenerisanjeLavirinta (generisiLavirint,ispisiLavirint)
+import RjesavanjeLavirinta
 
 main :: IO()
 main = do 
